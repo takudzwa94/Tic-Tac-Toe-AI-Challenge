@@ -6,7 +6,7 @@ A simple Tic-Tac-Toe game where the user plays against an AI opponent. The AI us
 
  Type in a number between 1 and 9 to select corresponding box.
  
- ## Screenshots
+## Screenshots
  
 !.[Title screen]. (https://raw.githubusercontent.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/main/screenshots/start.PNG)
  
