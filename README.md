@@ -7,7 +7,7 @@ A simple Tic-Tac-Toe game where the user plays against an AI opponent. The AI us
  
  ## Screenshots
  
- ![Title screen]. (https://raw.githubusercontent.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/main/screenshots/play.JPG)
+ ![Title screen]. (https://raw.githubusercontent.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/main/screenshots/start.PNG)
  
 
  
