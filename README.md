@@ -4,19 +4,19 @@ A simple Tic-Tac-Toe game where the user plays against an AI opponent. The AI us
 
 ## Python Libraries Used
 
-## Pygame
-Pygame is a popular Python library for game development. It provides functionality for handling graphics, sound, input, and networking, making it easy to create 2D games, including Tic-Tac-Toe.
-
 ## Turtle
 Turtle is a built-in Python library that provides a simple way to create graphics and animations. It is easy to use and can be a good choice for creating simple games like Tic-Tac-Toe.
 
 ## Installation
 First make sure that you already have python and pip installed on your machine already. Use the package manager pip to install both pygame and turtle modules.
-# pip install PythonTurtle    # sudo apt install python3-pip
+
+1) pip install PythonTurtle    
+2) sudo apt install python3-pip
 
 Clone the repo into your machine and finally run the Tic-Tac-Toe-AI-Challenge.py file in your terminal using the following commands.
 
-# git clone https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge    # python3 Tic-Tac-Toe-AI-Challenge.py
+1) git clone https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge    
+2) python3 Tic-Tac-Toe-AI-Challenge.py
 
 ## Tic-Tac_Toe Gameplay Screenshot
 
