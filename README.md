@@ -11,11 +11,13 @@ Turtle is a built-in Python library that provides a simple way to create graphic
 First make sure that you already have python and pip installed on your machine already. Use the package manager pip to install both pygame and turtle modules.
     
 1) sudo apt install python3-pip
-2) pip install PythonTurtle
+
+2)  install PythonTurtle
 
 Clone the repo into your machine and finally run the Tic-Tac-Toe-AI-Challenge.py file in your terminal using the following commands.
 
-1) git clone https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge    
+1) git clone https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge
+    
 2) python3 Tic-Tac-Toe-AI-Challenge.py
 
 ## Tic-Tac_Toe Gameplay Screenshot
