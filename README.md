@@ -8,8 +8,6 @@ A simple Tic-Tac-Toe game where the user plays against an AI opponent. The AI us
  
 ## Screenshots
 
-![start](https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/assets/51080246/4fc99bab-8177-4c7b-ac7a-e4d16ee89898)
-
 ![play](https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/assets/51080246/28e495b9-a958-43ed-9296-05f20a5bdb3e)
  
 
