@@ -24,7 +24,7 @@ Clone the repo into your machine and finally run the Tic-Tac-Toe-AI-Challenge.py
 
 ![play](https://github.com/takudzwa94/Tic-Tac-Toe-AI-Challenge/assets/51080246/28e495b9-a958-43ed-9296-05f20a5bdb3e)
 
-A Project By Takudzwa Chidobera
+A Project By Takudzwa Chidobera.
  
 
  
